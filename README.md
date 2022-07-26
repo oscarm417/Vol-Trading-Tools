@@ -27,7 +27,7 @@ Future Implmentations:
 * Hedging Tools
 * Position Sizer and Portfolio Risk Management tools 
 * Historical IV data scrapper -> AWS database
-* Convert Current Earning Historical Moves script into a realized Realized Vol version
+* Convert Current Earning Historical Moves script into a realized  Vol version
 
 More to be added to the list.....
 
