@@ -23,6 +23,7 @@ Volatility Forecasting & Volatility Cones:
 
 Future Implmentations:
 
+* Get Implied Volatility 
 * Black Scholes valuation in C# (importable into the py environment)
 * Hedging Tools
 * Position Sizer and Portfolio Risk Management tools 
