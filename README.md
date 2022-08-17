@@ -20,6 +20,10 @@ Volatility Forecasting & Volatility Cones:
 * Garch
 * Volatility Cone
 
+Dispersion:
+* Measures that are indicative of a profitable straddle based on Sinclair resarch
+![image](https://user-images.githubusercontent.com/65280357/185034354-89576fb5-5de6-4926-8259-57d163e49b0e.png)
+
 
 Future Implmentations:
 
