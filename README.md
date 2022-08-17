@@ -25,6 +25,8 @@ Volatility Forecasting & Volatility Cones:
 Dispersion:
 * Measures that are indicative of a profitable straddle based on Sinclair resarch
 ![image](https://user-images.githubusercontent.com/65280357/185034354-89576fb5-5de6-4926-8259-57d163e49b0e.png)
+![image](https://user-images.githubusercontent.com/65280357/185034982-80216a46-6919-4946-b0ef-d2dff294c674.png)
+
 
 
 Future Implmentations:
