@@ -17,8 +17,10 @@ Historical Volatility Measures:
 
 
 Volatility Forecasting & Volatility Cones:
-* Garch
+* Garch *needs to be completed
 * Volatility Cone
+* ![image](https://user-images.githubusercontent.com/65280357/185034455-f6e4f9e0-8a64-4cab-8b79-3c2d0f909e1a.png)
+
 
 Dispersion:
 * Measures that are indicative of a profitable straddle based on Sinclair resarch
